@@ -60,7 +60,7 @@ const Copyright = ({
         <Header as="h3">Contactez nous ! </Header>
       </div>
       <div className="footer__icons">
-        <a href={`mailto:`}>
+        <a href={`mailto:davidsolinas@aol.com`}>
           <FontAwesomeIcon
             style={{
               "--fa-primary-color": "black",
