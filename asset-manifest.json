@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/front_terramanza/static/css/main.7942ef02.chunk.css",
-    "main.js": "/front_terramanza/static/js/main.11eea86b.chunk.js",
-    "main.js.map": "/front_terramanza/static/js/main.11eea86b.chunk.js.map",
+    "main.js": "/front_terramanza/static/js/main.e6763c0c.chunk.js",
+    "main.js.map": "/front_terramanza/static/js/main.e6763c0c.chunk.js.map",
     "runtime-main.js": "/front_terramanza/static/js/runtime-main.87e070e8.js",
     "runtime-main.js.map": "/front_terramanza/static/js/runtime-main.87e070e8.js.map",
     "static/css/2.d3407f75.chunk.css": "/front_terramanza/static/css/2.d3407f75.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.d3407f75.chunk.css",
     "static/js/2.048d7779.chunk.js",
     "static/css/main.7942ef02.chunk.css",
-    "static/js/main.11eea86b.chunk.js"
+    "static/js/main.e6763c0c.chunk.js"
   ]
 }
